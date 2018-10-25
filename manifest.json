@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "MaTerialgram",
+  "author": "Alvin Hou",
+  "description": "Material Design 2 for Telegram Web",
+  "version": "1.0.0",
+  "homepage_url": "https://github.com/CryoliteZ/MaTerialgram",
+  "content_scripts": [
+    {
+      "matches": ["https://web.telegram.org/*", "http://web.telegram.org/*"],
+      "css": ["material-theme.css"],
+      "js": ["script.js"]
+    }
+  ]
+}
