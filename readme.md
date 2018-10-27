@@ -1,13 +1,13 @@
 
 <img src="images/banner.png" >
 
-*Experience Telegram with the new Material Design, dark and light theme, clean and simple*
+*Experience Telegram with the new Material Design, dark and light, clean and simple*
 
 ## Install Extensions
 
 |Platform|Link|
 |:-:|:-:|
-|[<img src = "https://i.imgur.com/zv5G8Ly.png" width="30px">](#TODO)| [Chrome Extension](#TODO)|
+|[<img src = "https://i.imgur.com/zv5G8Ly.png" width="30px">](https://chrome.google.com/webstore/detail/aebgckccbkgbeigkkdglihleeipanoan)| [Chrome Extension](https://chrome.google.com/webstore/detail/aebgckccbkgbeigkkdglihleeipanoan)|
 |[<img src = "https://i.imgur.com/M6KOVju.png" width="25px">](https://addons.mozilla.org/en-US/firefox/addon/materialgram/)| [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/materialgram/)|
 
 ## Demo
