@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "MaTerialgram",
   "author": "Alvin Hou",
-  "description": "New Material Design for Telegram Web, dark and light theme",
+  "description": "Experience Telegram with the new Material Design, dark and light, clean and simple",
   "version": "1.0.1",
   "icons": {
     "16": "icons/icon-dark.png",

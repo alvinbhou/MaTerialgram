@@ -388,7 +388,7 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when="stic
     background-color: $light-msg-out-bg-color;
     color: $light-msg-out-color;
   }
-  .im_dialog_message[ng-switch-when="messageMediaPhoto"]{
+  .im_dialog_message [ng-switch-when="messageMediaPhoto"]{
     color: #3a6d99!important;
   }
 
