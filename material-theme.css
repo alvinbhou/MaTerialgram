@@ -169,7 +169,7 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when=stick
   border-left: #333 solid !important;
 }
 .dark .im_history_selected_wrap, .dark .im_page_wrap {
-  background-color: rgba(0, 0, 0, 0.87);
+  background-color: #202124;
 }
 .dark .tg_head_split {
   border-bottom: 1px rgba(0, 0, 0, 0.45) solid;

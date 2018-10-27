@@ -7,7 +7,7 @@ $dark-theme-blue: #8ab4f8;
 $light-theme-blue: #1E88E5;
 $dark-active-color: #f2f6fa;
 $light-active-color: rgb(236, 239, 241);
-$dark-bg-color: rgba(0,0,0,0.87);
+$dark-bg-color: #202124;
 $dark-header-color: #202124;
 $dark-header-split-color: rgba(0,0,0,0.45);
 $dark-msg-in-bg-color: #3c4043;
@@ -203,7 +203,7 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when="stic
   }
 
   .im_history_selected_wrap, .im_page_wrap{
-    background-color:  $general-black;
+    background-color:  $dark-bg-color;
   }
   .tg_head_split {
     border-bottom: 1px $soft-black solid;
