@@ -314,6 +314,9 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when=stick
   background-color: #d2e3fc;
   color: #174ea6;
 }
+.light .im_dialog_message[ng-switch-when=messageMediaPhoto] {
+  color: #3a6d99 !important;
+}
 .light .im_dialogs:hover {
   background-color: #eceff1 !important;
 }
