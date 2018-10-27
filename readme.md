@@ -14,9 +14,9 @@
 <img src="images/demo.gif">
 
 ## About MaTerialgram
-This project is inspired by the recently redesign of Android Message Web. Aims to redesign Telgram web while following the new Material design guideline (or so-called Material Design 2). 
+This project is inspired by the recently redesign of [Android Messages Web](https://messages.android.com/). Aims to redesign Telegram web while following the new Material design guideline (or so-called Material Design 2). 
 
-You can simply switch between the dark and light theme by clicking the switcher from the extension.
+You can simply toggle between the dark and light theme by clicking the switch from the extension.
 
 If you want to make some tweaks, you can modify and build the css by
 
@@ -34,7 +34,7 @@ Feel free to open issues or pull requests!
 ### <img src="icons/icon-white.png" height="20px"> Light Theme
 <img src="images/light-theme.png">
 
-### Switcher
+### Switch
 <img src="https://i.imgur.com/Qdy9nuv.pngg">
 
 ## License
