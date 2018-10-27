@@ -1,20 +1,20 @@
 
 <img src="images/banner.png" >
 
-*Experience Telegram with the new Material Design, dark and light theme*
+*Experience Telegram with the new Material Design, dark and light theme, clean and simple*
 
 ## Install Extensions
 
 |Platform|Link|
 |:-:|:-:|
 |[<img src = "https://i.imgur.com/zv5G8Ly.png" width="30px">](#TODO)| [Chrome Extension](#TODO)|
-|[<img src = "https://i.imgur.com/M6KOVju.png" width="25px">](https://addons.mozilla.org/en-GB/firefox/addon/)| [Firefox Extension](https://addons.mozilla.org/en-GB/firefox/addon/)|
+|[<img src = "https://i.imgur.com/M6KOVju.png" width="25px">](https://addons.mozilla.org/en-US/firefox/addon/materialgram/)| [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/materialgram/)|
 
 ## Demo
 <img src="images/demo.gif">
 
 ## About MaTerialgram
-This project is inspired by the recently redesign of Android Message Web. Aims to redisgn Telgram web with the new Material design guideline (or so-called Material Design 2). 
+This project is inspired by the recently redesign of Android Message Web. Aims to redesign Telgram web while following the new Material design guideline (or so-called Material Design 2). 
 
 You can simply switch between the dark and light theme by clicking the switcher from the extension.
 
