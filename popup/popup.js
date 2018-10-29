@@ -22,13 +22,6 @@ ts.onchange = function(element) {
 };
 
 window.onload = function(){
-    if(localStorage.getItem("tg-theme")!="light"){
-        ts.checked = true;
-        ts.onchange();
-    }
-    else{
-        ts.checked = false;
-        ts.onchange();
-    }
+    ts.checked = localStorage.getItem("tg-theme")!="light";
+    ts.onchange();
 };
-
