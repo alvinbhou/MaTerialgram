@@ -88,6 +88,24 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when=stick
   border-radius: 24px !important;
 }
 
+/* fix small screen issue */
+@media (max-height: 600px) {
+  .im_submit_send {
+    display: none !important;
+  }
+
+  .composer_rich_textarea {
+    min-height: 42px !important;
+  }
+
+  .im_record .im_record_bg {
+    margin-top: 0;
+  }
+
+  .im_media_attach {
+    top: 6px !important;
+  }
+}
 /* reply buttons (sticker, commands) */
 .im_send_field_wrap.hasselect > a {
   margin-top: 8px !important;
