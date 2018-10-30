@@ -37,6 +37,10 @@ Feel free to open issues or pull requests!
 ### Switch
 <img src="https://i.imgur.com/Qdy9nuv.pngg">
 
+## Privacy
+This extension **DO NOT** read or save any of your conversations 
+
+This extension is built with mainly pure CSS, the only scripts([script.js](script.js) & [popup.js](popup/popup.js)) are for toggling between themes
+
 ## License
 [MIT](LICENSE)
-
