@@ -183,8 +183,12 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when=stick
   /* chat form username */
   /* badge number */
 }
+.dark .page_wrap {
+  background-color: rgba(20, 20, 20, 0.9);
+}
 .dark .im_page_wrap {
   border-left: #333 solid !important;
+  border-right: #222 solid !important;
 }
 .dark .im_history_selected_wrap, .dark .im_page_wrap {
   background-color: #202124;

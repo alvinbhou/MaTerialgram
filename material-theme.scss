@@ -36,6 +36,7 @@ $light-button-color: #d2e3fc;
 /* 
 * General Wrappers 
 */
+
 .im_page_wrap {
   border-bottom: 0!important;
   border-radius: 0!important;
@@ -109,7 +110,6 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when="stic
   display: block!important;
   content: none!important;
 }
-
 
 /* 
 * Reply area
@@ -215,8 +215,13 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when="stic
   * @DARK THEME
   */
 .dark {
+  .page_wrap{
+    background-color: rgba(20,20,20,0.9);
+  }
+
   .im_page_wrap {
     border-left: #333 solid !important;
+    border-right: #222 solid !important;
   }
 
   .im_history_selected_wrap, .im_page_wrap{
