@@ -3,6 +3,7 @@
 
 *Experience Telegram with the new Material Design, dark and light, clean and simple*
 
+![](https://img.shields.io/chrome-web-store/users/aebgckccbkgbeigkkdglihleeipanoan?label=Chrome%20users&style=flat-square) ![](https://img.shields.io/amo/users/{12f08274-4477-477c-8482-9d7ed0cc6987}?color=FF6611&label=Firefox%20users&style=flat-square) ![](https://img.shields.io/chrome-web-store/rating/aebgckccbkgbeigkkdglihleeipanoan?label=Rating&style=flat-square) 
 ## Install Extensions
 
 |Platform|Link|
