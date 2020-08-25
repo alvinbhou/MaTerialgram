@@ -7,6 +7,7 @@
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
+  clear: both;
 }
 
 .footer_empty {
@@ -43,7 +44,9 @@ div[my-message-body=historyMessage] {
 }
 
 /* text bubbles - media (image, stickers) */
-img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when=sticker] img {
+img.im_message_photo_thumb,
+img.im_message_video_thumb,
+div[ng-switch-when=sticker] img {
   border-radius: 12px 12px !important;
 }
 
@@ -69,7 +72,8 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when=stick
 }
 
 /* text bubbles - clear margins */
-.clearfix:after, .clearfix:before {
+.clearfix:after,
+.clearfix:before {
   display: block !important;
   content: none !important;
 }
@@ -190,7 +194,8 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when=stick
   border-left: #333 solid !important;
   border-right: #222 solid !important;
 }
-.dark .im_history_selected_wrap, .dark .im_page_wrap {
+.dark .im_history_selected_wrap,
+.dark .im_page_wrap {
   background-color: #202124;
 }
 .dark .tg_head_split {
@@ -234,7 +239,8 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when=stick
 .dark .im_dialog_peer {
   color: rgba(255, 255, 255, 0.87) !important;
 }
-.dark .im_dialog_message .im_short_message_text, .dark .im_dialog_message {
+.dark .im_dialog_message .im_short_message_text,
+.dark .im_dialog_message {
   color: rgba(255, 255, 255, 0.54) !important;
 }
 .dark .im_dialogs_scrollable_wrap a.im_dialog_searchpeer {
@@ -258,7 +264,8 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when=stick
 .dark .dropdown-menu .divider {
   background-color: #555 !important;
 }
-.dark .dropdown.open .tg_head_btn, .dark .tg_head_btn:hover {
+.dark .dropdown.open .tg_head_btn,
+.dark .tg_head_btn:hover {
   background-color: #202124 !important;
 }
 .dark .dropdown-menu > li > a:hover {
@@ -276,13 +283,16 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when=stick
 .dark .md_modal_head {
   background-color: #333 !important;
 }
-.dark .modal-dialog .im_dialog_peer span, .dark .modal-dialog .im_short_message_text {
+.dark .modal-dialog .im_dialog_peer span,
+.dark .modal-dialog .im_short_message_text {
   color: #222 !important;
 }
-.dark .modal-dialog .im_dialog:hover .im_dialog_peer span, .dark .modal-dialog .im_dialog:hover .im_short_message_text {
+.dark .modal-dialog .im_dialog:hover .im_dialog_peer span,
+.dark .modal-dialog .im_dialog:hover .im_short_message_text {
   color: #FFFFFF !important;
 }
-.dark .icon-checkbox-outer, .dark .icon-checkbox-inner {
+.dark .icon-checkbox-outer,
+.dark .icon-checkbox-inner {
   background-color: #333 !important;
 }
 .dark .btn-primary {
@@ -346,7 +356,9 @@ img.im_message_photo_thumb, img.im_message_video_thumb, div[ng-switch-when=stick
   background-color: #eceff1 !important;
   margin-right: 0px !important;
 }
-.light .active .im_dialog_peer, .light .active .im_dialog_date, .light .active .im_short_message_text {
+.light .active .im_dialog_peer,
+.light .active .im_dialog_date,
+.light .active .im_short_message_text {
   color: #222 !important;
 }
 .light .im_dialogs_col_wrap .im_short_message_service {
